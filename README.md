@@ -5,20 +5,7 @@
 
 Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e tenho meu foco em Desenvolvimento Web.
 
-<a href="https://www.instagram.com/cesarcausp" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://www.linkedin.com/in/CesarCaus" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.cesarcaus.netlify.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-
-
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/cesarcausp)   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CesarCaus)   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white)](https://www.cesarcaus.netlify.com)
 
 <hr>
 
