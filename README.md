@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/fe71bf31-2aea-48a4-8c74-25490d53540c" width="100%" style="position: absolute;"/>
 
 
-# Olá, meu nome é César👋
+# Olá, meu nome é César Caus
 
 Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e tenho meu foco em Desenvolvimento Web.
 
@@ -12,7 +12,7 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 <hr>
 
-### Algumas das tecnologia que trabalho
+### Algumas das tecnologia que trabalho 🛠️
 
  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcaus&layout=compact&theme=radical)
 
@@ -37,5 +37,5 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 ### Minhas Estatísticas do GitHub 📊
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cesarcaus&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cesarcaus&theme=radical)](https://git.io/streak-stats)
 
