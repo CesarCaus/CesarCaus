@@ -36,6 +36,7 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 ### Minhas Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cesarcaus&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cesarcaus&theme=radical)](https://git.io/streak-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cesarcaus&show_icons=true&theme=radical&hide_title=true&card_width=300)
+
+
 
