@@ -14,6 +14,8 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 ### Algumas das tecnologia que trabalho
 
+ ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+
 **Frontend**
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,javascript,typescript,sass&perline=5)](https://skillicons.dev)
@@ -29,5 +31,11 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 **Persistência de Dados**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql&perline=4)](https://skillicons.dev)
+
+<hr>
+
+### Minhas Estatísticas do GitHub 📊
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
 
