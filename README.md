@@ -14,7 +14,7 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 ### Algumas das tecnologia que trabalho
 
- ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+ ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcaus&layout=compact&theme=radical)
 
 **Frontend**
 
@@ -36,6 +36,6 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 ### Minhas Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cesarcaus&show_icons=true&theme=radical)
 
 
