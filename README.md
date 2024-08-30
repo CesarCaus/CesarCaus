@@ -14,7 +14,7 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 <hr>
 
-### Algumas das tecnologia que trabalho 🛠️
+### Algumas das tecnologias que trabalho 🛠️
 
  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcaus&layout=compact&theme=radical)
 
