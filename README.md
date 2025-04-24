@@ -24,7 +24,7 @@ Sou um estudante de Sistemas de Informação na Universidade Federal de Goiás e
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,spring,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,spring,java,python&perline=5)](https://skillicons.dev)
 
 **Design e Prototipação**
 
